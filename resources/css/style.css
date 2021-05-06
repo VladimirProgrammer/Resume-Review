@@ -132,7 +132,7 @@ h1{
 .manual__block_subcont{
     max-width: 245px;
 }
-.manual__block_subcont img{
+.manual__block_subcont svg{
     margin-bottom: 27px;
     padding-top: 31px;
 }
